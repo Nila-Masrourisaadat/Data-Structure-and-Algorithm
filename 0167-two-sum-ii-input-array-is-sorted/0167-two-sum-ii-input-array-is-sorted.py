@@ -10,7 +10,7 @@ class Solution(object):
         while l<r:
             if numbers[r]+numbers[l]<target:
                 l+=1
-            if numbers[r]==target-numbers[l]:
+            elif numbers[r]==target-numbers[l]:
                 return [l+1,r+1]
-            elif numbers[r]+numbers[l]>target:
+            else:
                 r-=1
