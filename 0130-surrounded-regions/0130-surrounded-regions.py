@@ -20,7 +20,6 @@ class Solution(object):
         for row in range(ROWS):
             for col in range(COLS):
                 if (board[row][col]=="O" and (row in [0,ROWS-1] or col in [0,COLS-1])):#unsurrounded regions
-                    # board[row][col]="T"
                     dfs(row, col)
 
 
