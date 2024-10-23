@@ -37,7 +37,7 @@ class Solution(object):
             for w,v in adj[u]:
                 if d[v]>=sp*w:#do log of those proability cuz multiplication of probs is addition of logs of them
                     d[v]=sp*w
-                    if v not in visit:########thissssss
+                    if v not in visit:#The visit check on the neighbor (v) ensures that you don't re-process a node that's already been finalized (i.e., the shortest path or the maximum probability to that node has already been found)
                         heapq.heappush(q,(d[v],v))
 
        
