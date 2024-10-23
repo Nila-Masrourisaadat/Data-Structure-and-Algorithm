@@ -13,7 +13,6 @@ class Solution(object):
                 return 
             board[row][col]="T"
             for dr, dc in directions:
-                # if board[row+dr][col+dc]=="O":
                 dfs(row+dr,col+dc)
                     
 
