@@ -9,7 +9,7 @@ class Solution(object):
         :rtype: float
         """
         #we dont have cycles because a!=b and we have non negative weights->shortest path algo
-        #to make this problem shortest path and to be able to use Dijkstra to find max probability is equal to find min 1/proability
+        #to make this problem shortest path and to be able to use Dijkstra to find max probability we can use max heap by negating the probabilities
         #create distance dictionary for d[v] and initialize all except source node with inf value
         d={node:float('inf') for node in range(n)}
         d[start_node]=-1
