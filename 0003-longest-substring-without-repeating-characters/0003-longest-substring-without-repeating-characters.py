@@ -4,21 +4,15 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        max_len = 0
-        l = 0  # left pointer
-        r = 0  # right pointer
-        chars = set()
-
-        # Loop until the right pointer reaches the end of the string
-        while r < len(s):
-            if s[r] not in chars:
-                # Expand the window by adding the character at `r` to the set
+        max_len=0
+        l,r=0,0
+        chars=set()
+        while r<len(s):
+            if s[r] not in chars:#not repeated character
                 chars.add(s[r])
-                max_len = max(max_len, r - l + 1)
-                r += 1  # Move the right pointer forward
-            else:
-                # Shrink the window from the left by removing the character at `l`
+                max_len=max(max_len, r-l+1)
+                r+=1
+            else:#if repeated keep shrinking
                 chars.remove(s[l])
-                l += 1  # Move the left pointer forward
-
+                l+=1
         return max_len
