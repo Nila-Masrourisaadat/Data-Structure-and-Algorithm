@@ -20,15 +20,26 @@ class Solution(object):
                     return num1 // num2
 
 
-        # Pop the last element to process
-        char = tokens.pop()
+        # # Pop the last element to process
+        # char = tokens.pop()
         
-        # Check if `char` is a number (including negative numbers)
-        if char.isdigit() or (char[0] == '-' and char[1:].isdigit()):
-            return int(char)
-        else:
-            # Recursive case: `char` is an operator
-            # Evaluate the right and left operands in correct order
-            right = self.evalRPN(tokens)
-            left = self.evalRPN(tokens)
-            return operator_func(char, left, right)
+        # # Check if `char` is a number (including negative numbers)
+        # if char.isdigit() or (char[0] == '-' and char[1:].isdigit()):
+        #     return int(char)
+        # else:
+        #     # Recursive case: `char` is an operator
+        #     # Evaluate the right and left operands in correct order
+        #     right = self.evalRPN(tokens)
+        #     left = self.evalRPN(tokens)
+        #     return operator_func(char, left, right)
+
+        stack=[]
+        for i,char in enumerate(tokens):
+            if char.isdigit() or (char[0] == '-' and char[1:].isdigit()):
+                stack.append(char)
+            else:
+                right=stack.pop()
+                left=stack.pop()
+                stack.append(operator_func(char, left,right))
+            
+        return int(stack.pop())
