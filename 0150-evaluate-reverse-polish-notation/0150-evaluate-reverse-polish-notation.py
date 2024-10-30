@@ -19,9 +19,6 @@ class Solution(object):
                 else:
                     return num1 // num2
 
-        # Base case: if tokens is empty, it's an invalid expression
-        if not tokens:
-            raise ValueError("Invalid expression: insufficient operands")
 
         # Pop the last element to process
         char = tokens.pop()
