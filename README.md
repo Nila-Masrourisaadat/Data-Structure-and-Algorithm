@@ -11,6 +11,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0695-max-area-of-island](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0695-max-area-of-island) |
+| [0739-daily-temperatures](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0739-daily-temperatures) |
 | [1325-path-with-maximum-probability](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1325-path-with-maximum-probability) |
 ## Hash Table
 |  |
@@ -88,6 +89,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -108,4 +110,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0022-generate-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
