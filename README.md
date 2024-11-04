@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -40,6 +41,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Graph
 |  |
@@ -72,6 +74,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0695-max-area-of-island) |
 ## String
