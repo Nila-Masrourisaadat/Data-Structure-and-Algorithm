@@ -4,8 +4,8 @@ class Solution(object):
         :type nums: List[int]
         :rtype: None Do not return anything, modify nums in-place instead.
         """
-        if len(nums)==1 and nums[0]!=0:
-            return nums
+        # if len(nums)==1 and nums[0]!=0:
+        #     return nums
         l,r=0,0
         while  l<len(nums):
             while nums[l]!=0 and l<len(nums)-1:
