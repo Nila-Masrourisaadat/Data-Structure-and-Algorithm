@@ -17,6 +17,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0739-daily-temperatures) |
+| [0907-koko-eating-bananas](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0907-koko-eating-bananas) |
 | [1325-path-with-maximum-probability](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1325-path-with-maximum-probability) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0907-koko-eating-bananas](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0907-koko-eating-bananas) |
 ## Graph
 |  |
 | ------- |
