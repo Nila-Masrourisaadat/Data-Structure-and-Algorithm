@@ -18,6 +18,7 @@
 | [0695-max-area-of-island](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0907-koko-eating-bananas) |
+| [1019-squares-of-a-sorted-array](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1019-squares-of-a-sorted-array) |
 | [1325-path-with-maximum-probability](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1325-path-with-maximum-probability) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0567-permutation-in-string) |
+| [1019-squares-of-a-sorted-array](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -134,4 +136,8 @@
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0138-copy-list-with-random-pointer) |
+## Sorting
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
