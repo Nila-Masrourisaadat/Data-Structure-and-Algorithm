@@ -6,13 +6,15 @@ class Solution(object):
         """
         res=[]
         l,r=0,0
+        if len(nums)==1:
+            return [nums[0]**2]
+
         for i,num in enumerate(nums):
             if num>=0 and i!=0:
                 l=i-1
                 r=i
                 break
-        if len(nums)==1:
-            return [nums[0]**2]
+        
         if l==r:
             l=len(nums)-1
             r=len(nums)
@@ -36,4 +38,5 @@ class Solution(object):
         while r < len(nums):
             res.append(nums[r] ** 2)
             r += 1
+            
         return res
