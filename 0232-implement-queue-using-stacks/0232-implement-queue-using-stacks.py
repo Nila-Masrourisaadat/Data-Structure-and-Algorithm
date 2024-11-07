@@ -16,24 +16,26 @@ class MyQueue(object):
         """
         :rtype: int
         """
-        self.stack2=[]
-        for i in range(1,len(self.stack1)):
-            self.stack2.append(self.stack1[i])
-        popitem= self.peek()
-        self.stack1=self.stack2
-        return popitem
+        if not self.stack2:
+            while self.stack1:
+                self.stack2.append(self.stack1.pop())
+        return self.stack2.pop()
+        
 
     def peek(self):
         """
         :rtype: int
         """
-        return self.stack1[0]
-
+        if not self.stack2:
+            while self.stack1:
+                self.stack2.append(self.stack1.pop())
+        return self.stack2[-1]
+        
     def empty(self):
         """
         :rtype: bool
         """
-        if not self.stack1:
+        if not self.stack1 and not self.stack2:
             return True
         return False
 
