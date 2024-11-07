@@ -18,11 +18,9 @@ class MyQueue(object):
         """
         self.stack2=[]
         for i in range(1,len(self.stack1)):
-            print(self.stack1[i])
             self.stack2.append(self.stack1[i])
         popitem= self.peek()
         self.stack1=self.stack2
-        print(self.stack1)
         return popitem
 
     def peek(self):
