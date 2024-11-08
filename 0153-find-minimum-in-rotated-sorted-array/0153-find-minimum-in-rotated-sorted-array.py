@@ -14,7 +14,7 @@ class Solution(object):
             mid=l+(r-l)//2
             res=min(res,nums[mid])
             #edge case where we are at a portion that is sorted or the array is sorted and not rotated
-            if nums[mid]>=nums[l]: # we are in left portion
+            if nums[mid]>=nums[0]: # we are in left portion
                 l=mid+1 # we want to go to the right portion
             else:
                 r=mid-1
