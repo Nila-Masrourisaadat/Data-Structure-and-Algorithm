@@ -34,6 +34,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0567-permutation-in-string) |
+| [1023-time-based-key-value-store](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1023-time-based-key-value-store) |
 ## Union Find
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0907-koko-eating-bananas](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1023-time-based-key-value-store) |
 ## Graph
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | [0344-reverse-string](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0567-permutation-in-string) |
+| [1023-time-based-key-value-store](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1023-time-based-key-value-store) |
 ## Sliding Window
 |  |
 | ------- |
@@ -122,6 +125,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0232-implement-queue-using-stacks) |
+| [1023-time-based-key-value-store](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1023-time-based-key-value-store) |
 ## Math
 |  |
 | ------- |
