@@ -31,6 +31,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0567-permutation-in-string) |
@@ -123,6 +124,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [1023-time-based-key-value-store](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1023-time-based-key-value-store) |
@@ -153,6 +155,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0002-add-two-numbers) |
 | [0138-copy-list-with-random-pointer](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0146-lru-cache) |
 ## Sorting
 |  |
 | ------- |
@@ -169,4 +172,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
