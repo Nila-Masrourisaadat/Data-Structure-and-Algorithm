@@ -21,6 +21,7 @@
 | [0695-max-area-of-island](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0907-koko-eating-bananas) |
+| [1014-k-closest-points-to-origin](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1019-squares-of-a-sorted-array) |
 | [1325-path-with-maximum-probability](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1325-path-with-maximum-probability) |
 ## Hash Table
@@ -72,6 +73,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1014-k-closest-points-to-origin](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1014-k-closest-points-to-origin) |
 | [1325-path-with-maximum-probability](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
 |  |
@@ -133,6 +135,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1014-k-closest-points-to-origin](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1014-k-closest-points-to-origin) |
 ## Topological Sort
 |  |
 | ------- |
@@ -159,6 +162,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1014-k-closest-points-to-origin](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1019-squares-of-a-sorted-array) |
 ## Recursion
 |  |
@@ -176,4 +180,16 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0146-lru-cache) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
