@@ -138,6 +138,7 @@
 | [0002-add-two-numbers](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1014-k-closest-points-to-origin](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1014-k-closest-points-to-origin) |
+| [1195-distribute-candies-to-people](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1195-distribute-candies-to-people) |
 ## Topological Sort
 |  |
 | ------- |
@@ -199,5 +200,6 @@
 ## Simulation
 |  |
 | ------- |
+| [1195-distribute-candies-to-people](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1195-distribute-candies-to-people) |
 | [2048-build-array-from-permutation](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
