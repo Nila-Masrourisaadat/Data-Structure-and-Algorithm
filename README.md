@@ -25,6 +25,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1019-squares-of-a-sorted-array) |
 | [1325-path-with-maximum-probability](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1325-path-with-maximum-probability) |
+| [2048-build-array-from-permutation](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/2048-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -195,4 +196,8 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1014-k-closest-points-to-origin) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
