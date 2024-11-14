@@ -37,6 +37,7 @@
 | [0133-clone-graph](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0567-permutation-in-string) |
@@ -78,6 +79,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1014-k-closest-points-to-origin) |
 | [1325-path-with-maximum-probability](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1325-path-with-maximum-probability) |
@@ -138,6 +140,7 @@
 | [0155-min-stack](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0155-min-stack) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0232-implement-queue-using-stacks) |
+| [0355-design-twitter](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0355-design-twitter) |
 | [1023-time-based-key-value-store](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1023-time-based-key-value-store) |
 ## Math
 |  |
@@ -171,6 +174,7 @@
 | [0002-add-two-numbers](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0002-add-two-numbers) |
 | [0138-copy-list-with-random-pointer](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0355-design-twitter) |
 ## Sorting
 |  |
 | ------- |
