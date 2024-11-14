@@ -22,7 +22,7 @@ class Solution(object):
         # dfs(0)
         # return res
 
-
+        nums.sort()
         def generatebits(i,B,Bits):
             if i==len(nums):
                 Bits.append(B[:])
@@ -44,7 +44,7 @@ class Solution(object):
             for i, b in enumerate(B):
                 if b==1:
                     subset.append(nums[i])
-            subset.sort()
+            # subset.sort()
             if subset not in res:
                 res.append(subset)
         return res
