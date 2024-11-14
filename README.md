@@ -19,6 +19,7 @@
 | [0283-move-zeroes](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0739-daily-temperatures) |
@@ -39,6 +40,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0621-task-scheduler) |
 | [1023-time-based-key-value-store](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1023-time-based-key-value-store) |
 ## Union Find
 |  |
@@ -76,6 +78,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1014-k-closest-points-to-origin) |
 | [1325-path-with-maximum-probability](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
@@ -171,6 +174,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1019-squares-of-a-sorted-array) |
 ## Recursion
@@ -211,4 +215,12 @@
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0211-design-add-and-search-words-data-structure) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
