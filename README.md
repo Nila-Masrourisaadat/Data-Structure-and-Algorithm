@@ -11,6 +11,7 @@
 | [0046-permutations](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0130-surrounded-regions) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0695-max-area-of-island) |
 ## String
@@ -114,6 +116,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0079-word-search) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0344-reverse-string](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
@@ -164,6 +167,7 @@
 | [0022-generate-parentheses](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0090-subsets-ii) |
 ## Monotonic Stack
 |  |
