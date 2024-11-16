@@ -117,6 +117,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0131-palindrome-partitioning) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0344-reverse-string](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
@@ -161,6 +162,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
 | ------- |
@@ -169,6 +171,7 @@
 | [0078-subsets](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0131-palindrome-partitioning) |
 ## Monotonic Stack
 |  |
 | ------- |
