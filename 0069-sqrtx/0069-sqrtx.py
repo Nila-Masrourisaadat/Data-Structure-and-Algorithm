@@ -16,10 +16,7 @@ class Solution(object):
                 l=m+1
             else:
                 return m
-        print(m)       
-        if (m)*(m)<x:
-            return m
-        if (m-1)*(m-1)<x:
-            return m-1
+
+        return r
         
 
