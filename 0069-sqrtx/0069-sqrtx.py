@@ -7,7 +7,7 @@ class Solution(object):
         
         if x==0:
             return 0
-        l,r=1,x
+        l,r=0,x
         while l<=r:
             m=(l+r)//2
             if x<m*m:
