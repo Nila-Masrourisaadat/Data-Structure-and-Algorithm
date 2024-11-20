@@ -26,6 +26,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1019-squares-of-a-sorted-array) |
@@ -172,6 +173,7 @@
 | [0022-generate-parentheses](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0131-palindrome-partitioning) |
+| [0747-min-cost-climbing-stairs](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0747-min-cost-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
