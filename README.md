@@ -23,6 +23,7 @@
 | [0283-move-zeroes](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0300-longest-increasing-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0643-maximum-average-subarray-i) |
@@ -178,6 +179,7 @@
 | [0131-palindrome-partitioning](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0300-longest-increasing-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0747-min-cost-climbing-stairs) |
 ## Backtracking
 |  |
