@@ -14,6 +14,13 @@ class Solution(object):
             dp[i]=min(dp[i-1]+cost[i-1],dp[i-2]+cost[i-2])
         return dp[len(cost)-1]
 
+        #top down (from right)
+        # for i in range(len(cost)-3,-1,-1):
+        #     cost[i]=min(cost[i+1],cost[i+2])+cost[i]
+
+        # return min(cost[0],cost[1])
+        #bottom up (from left) 
+
        
 
 
