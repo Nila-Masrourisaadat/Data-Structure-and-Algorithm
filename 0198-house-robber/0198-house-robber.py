@@ -9,7 +9,7 @@ class Solution(object):
         # dp={}
         # dp[0]=nums[0]
       
-        
+        #recusrive memoization
         # def HR(i):
         #     if i==1:
         #         dp[1]= max(nums[0],nums[1])
@@ -20,6 +20,8 @@ class Solution(object):
         #     return dp[i]
         # return HR(len(nums)-1)
 
+
+        #iterative bottom up
         first=nums[0]
         second=max(first,nums[1])
         for i in range(2,len(nums)):
