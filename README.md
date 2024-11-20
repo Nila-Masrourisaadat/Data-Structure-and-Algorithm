@@ -158,6 +158,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1014-k-closest-points-to-origin](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1014-k-closest-points-to-origin) |
 | [1195-distribute-candies-to-people](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1195-distribute-candies-to-people) |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
@@ -248,4 +250,8 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0621-task-scheduler) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
