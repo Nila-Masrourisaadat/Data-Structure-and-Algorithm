@@ -135,6 +135,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1023-time-based-key-value-store) |
+| [1250-longest-common-subsequence](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1250-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -185,6 +186,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0747-min-cost-climbing-stairs) |
+| [1250-longest-common-subsequence](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1250-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
