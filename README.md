@@ -126,6 +126,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0131-palindrome-partitioning) |
@@ -177,6 +178,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
