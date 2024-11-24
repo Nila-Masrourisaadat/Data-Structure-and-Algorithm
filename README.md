@@ -106,6 +106,7 @@
 | [0210-course-schedule-ii](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0695-max-area-of-island](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0695-max-area-of-island) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [0133-clone-graph](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0210-course-schedule-ii) |
 | [0695-max-area-of-island](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0695-max-area-of-island) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -271,4 +273,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
+## Tree
+|  |
+| ------- |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
