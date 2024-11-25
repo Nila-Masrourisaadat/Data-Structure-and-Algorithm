@@ -10,9 +10,8 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: int
         """
-        def dfs(node):
-            if not node:
-                return 0
-            return max(dfs(node.left),dfs(node.right))+1
         
-        return dfs(root)
+        if not root:
+            return 0
+        return max(self.maxDepth(root.left),self.maxDepth(root.right))+1
+        
