@@ -10,6 +10,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0079-word-search) |
@@ -186,6 +187,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0091-decode-ways) |
@@ -269,6 +271,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
