@@ -23,6 +23,9 @@ class Solution(object):
                 index=i+1
 
         return index if gas_remain>=0 else -1
+
+
+        # from the first index that the gas_remain is + onward it has to be positive because if not the whole sum is negative and we dont have answer but if we do the whole sum should be positive and it has to also be a positive that its quantity is more than all the sum of behind it which was negative up until that point 
    
             
            
