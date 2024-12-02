@@ -33,6 +33,7 @@
 | [0695-max-area-of-island](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0747-min-cost-climbing-stairs) |
+| [0876-hand-of-straights](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1019-squares-of-a-sorted-array) |
@@ -53,6 +54,7 @@
 | [0496-next-greater-element-i](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0876-hand-of-straights) |
 | [1023-time-based-key-value-store](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1023-time-based-key-value-store) |
 ## Union Find
 |  |
@@ -229,6 +231,7 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1019-squares-of-a-sorted-array) |
 ## Recursion
@@ -278,6 +281,7 @@
 | [0055-jump-game](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0876-hand-of-straights) |
 ## Counting
 |  |
 | ------- |
