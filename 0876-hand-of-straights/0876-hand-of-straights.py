@@ -5,6 +5,32 @@ class Solution(object):
         :type groupSize: int
         :rtype: bool
         """
+        #better
+        if len(hand)%groupSize!=0:
+            return False
+        counter={}
+        minheap=[]
+        for h in hand:
+            counter[h]=counter.get(h,0)+1
+        for h in counter:
+            heapq.heappush(minheap,h)
+        
+        while minheap:
+            h=minheap[0]
+            
+            for i in range(h, h+groupSize):
+                if i not in counter:
+                    return False
+                counter[i]-=1
+                if counter[i]==0:
+                    if i!=minheap[0]:#if the key that its value turned zero is not the min in minheap
+                        return False
+                    heapq.heappop(minheap)
+        return True
+                
+        
+
+        #mine
         if len(hand)%groupSize!=0:
             return False
         hand.sort()
@@ -12,7 +38,6 @@ class Solution(object):
         counter={}
         for h in hand:
             counter[h]=counter.get(h,0)+1
-        print(counter)
         i=0
         while i<len(hand):
             h=hand[i]
@@ -36,26 +61,3 @@ class Solution(object):
 
 
 
-
-        # gpcounter=0
-        # cnt=0
-        # prev=0
-        # visit=set()
-        # i=0
-        # while i<len(hand):
-        #     if gpcounter<groupSize and prev!=hand[i] and i not in visit:
-        #         prev=hand[i]
-        #         visit.add(hand[i])
-        #         gpcounter+=1
-        #         i+=1
-        #     elif prev==hand[i] and cnt==0:
-        #         cnt+=1
-        #         tmp=i
-        #         i+=1
-        #     elif gpcounter>=groupSize:
-        #         cnt==0
-        #         gpcounter=0
-        #         prev=0
-        #         i=tmp
-        # return False if gpcounter!=groupSize else True
-            
