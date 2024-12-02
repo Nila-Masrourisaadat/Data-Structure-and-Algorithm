@@ -12,8 +12,11 @@ class Solution(object):
         minheap=[]
         for h in hand:
             counter[h]=counter.get(h,0)+1
-        for h in counter:
-            heapq.heappush(minheap,h)
+        minheap=list(counter.keys())
+        heapq.heapify(minheap)
+        #or
+        # for h in counter:
+        #     heapq.heappush(minheap,h)
         
         while minheap:
             h=minheap[0]
