@@ -8,20 +8,16 @@ class Solution(object):
         maxleft=0
         for i, par in enumerate(s):
             if par=="(":
-                minleft+=1
-                maxleft+=1
-            elif par=="*":
-                maxleft+=1
-                #when we want to consider it as ")"
-                minleft-=1
-            else:#when encountering ")"
-                maxleft-=1
-                minleft-=1
+                maxleft,minleft=maxleft+1,minleft+1
+            elif par==")":
+                maxleft,minleft=maxleft-1,minleft-1
+            else:
+                maxleft,minleft=maxleft+1,minleft-1
             if maxleft<0:
                 return False
-            if minleft<0:
+            if minleft<0: #s="(*)("
                 minleft=0
-        return True if 0 in range(minleft,maxleft+1) else False
+        return minleft==0
             
 
                       
