@@ -16,12 +16,6 @@ class Solution(object):
                     prev=[start,end]
                 else:
                     prev=[next_s,next_e]
-                # if end-start==next_e-next_s:
-                #     prev=[start,end] if end<next_e else [next_s,next_e]
-                # elif end-start<next_e-next_s:
-                #     prev=[start,end]
-                # else:
-                #     prev=[next_s,next_e] 
                 cnt+=1
             else:
                 prev=[next_s,next_e]
