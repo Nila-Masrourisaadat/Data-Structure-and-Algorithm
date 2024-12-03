@@ -55,6 +55,7 @@
 | [0496-next-greater-element-i](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0621-task-scheduler) |
+| [0768-partition-labels](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0876-hand-of-straights) |
 | [1023-time-based-key-value-store](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1023-time-based-key-value-store) |
 ## Union Find
@@ -74,6 +75,7 @@
 | [0287-find-the-duplicate-number](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0768-partition-labels) |
 | [1019-squares-of-a-sorted-array](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -147,6 +149,7 @@
 | [0344-reverse-string](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0768-partition-labels) |
 | [1023-time-based-key-value-store](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1250-longest-common-subsequence) |
 ## Sliding Window
@@ -282,6 +285,7 @@
 | [0055-jump-game](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0621-task-scheduler) |
+| [0768-partition-labels](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0876-hand-of-straights) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Counting
