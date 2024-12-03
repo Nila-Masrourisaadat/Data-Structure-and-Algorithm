@@ -27,6 +27,7 @@
 | [0287-find-the-duplicate-number](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0643-maximum-average-subarray-i) |
@@ -207,6 +208,7 @@
 | [0198-house-robber](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0747-min-cost-climbing-stairs) |
 | [1250-longest-common-subsequence](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1250-longest-common-subsequence) |
@@ -237,6 +239,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1014-k-closest-points-to-origin) |
@@ -287,6 +290,7 @@
 | [0045-jump-game-ii](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0134-gas-station) |
+| [0435-non-overlapping-intervals](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0768-partition-labels) |
