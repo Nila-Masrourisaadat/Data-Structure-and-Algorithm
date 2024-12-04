@@ -17,14 +17,12 @@ class Solution(object):
             r-=1
             if not(l<=r and t<=b):
                 break
-            print(l,r)
             for col in range(r,l-1,-1):
                 output.append(matrix[b][col])
             b-=1
             for row in range(b,t-1,-1):
                 output.append(matrix[row][l])
             l+=1
-            print(l,r,t,b)
         return output
 
 
