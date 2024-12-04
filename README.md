@@ -12,6 +12,7 @@
 | [0045-jump-game-ii](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0079-word-search) |
@@ -185,6 +186,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
