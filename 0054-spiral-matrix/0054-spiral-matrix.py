@@ -4,6 +4,33 @@ class Solution(object):
         :type matrix: List[List[int]]
         :rtype: List[int]
         """
+        #better:pointers
+        output=[]
+        ROWS,COLS=len(matrix),len(matrix[0])
+        l,t,b,r=0,0,ROWS-1,COLS-1
+        while l<=r and t<=b:
+            for col in range(l,r+1):
+                output.append(matrix[t][col])
+            t+=1
+            for row in range(t,b+1):
+                output.append(matrix[row][r])
+            r-=1
+            if not(l<=r and t<=b):
+                break
+            print(l,r)
+            for col in range(r,l-1,-1):
+                output.append(matrix[b][col])
+            b-=1
+            for row in range(b,t-1,-1):
+                output.append(matrix[row][l])
+            l+=1
+            print(l,r,t,b)
+        return output
+
+
+
+
+        #mine recursive
         output=[]
         visit=set()
         ROWS,COLS=len(matrix),len(matrix[0])
