@@ -191,6 +191,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
@@ -255,6 +256,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0234-palindrome-linked-list) |
 ## Queue
 |  |
