@@ -147,6 +147,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0091-decode-ways) |
@@ -191,6 +192,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0069-sqrtx) |
@@ -287,6 +289,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0054-spiral-matrix) |
 | [1195-distribute-candies-to-people](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1195-distribute-candies-to-people) |
 | [2048-build-array-from-permutation](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/2048-build-array-from-permutation) |
