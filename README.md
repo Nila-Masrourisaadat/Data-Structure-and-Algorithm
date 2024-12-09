@@ -44,6 +44,7 @@
 | [1325-path-with-maximum-probability](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1325-path-with-maximum-probability) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2048-build-array-from-permutation](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/2048-build-array-from-permutation) |
+| [2139-detect-squares](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/2139-detect-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0768-partition-labels](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0876-hand-of-straights) |
 | [1023-time-based-key-value-store](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1023-time-based-key-value-store) |
+| [2139-detect-squares](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/2139-detect-squares) |
 ## Union Find
 |  |
 | ------- |
@@ -188,6 +190,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [0355-design-twitter](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0355-design-twitter) |
 | [1023-time-based-key-value-store](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1023-time-based-key-value-store) |
+| [2139-detect-squares](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/2139-detect-squares) |
 ## Math
 |  |
 | ------- |
@@ -313,6 +316,7 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0621-task-scheduler) |
+| [2139-detect-squares](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/2139-detect-squares) |
 ## Memoization
 |  |
 | ------- |
