@@ -18,25 +18,13 @@ class Solution(object):
             area=1
             while q:
                 row,col=q.popleft()
-                # print("here2",row,col)
                 for dr,dc in directions:
-                    r,c=row+dr,col+dc
-                    # if (row,col)==(4,9):
-                    #     if (r,c) in visit:
-                    #         print("in visit",row,col,r,c)
-                    #     if grid[r][c]==1:
-                    #         print("its land")
-                    #     if r not in range(ROWS) or c not in range(COLS):
-                    #         # print("not in bound")
-                    
+                    r,c=row+dr,col+dc                    
                     if r in range(ROWS) and c in range(COLS) and (r,c) not in visit and grid[r][c]==1:
-                        # print("here",r,c)
-                        # print(visit)
                         #its land that is part of an island
                         area+=1
                         q.append((r,c))
                         visit.add((r,c))
-            # print(area)
             return area
 
 
