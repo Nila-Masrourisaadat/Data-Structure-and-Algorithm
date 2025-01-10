@@ -15,10 +15,13 @@ class Solution(object):
                 return False
             if node in visit:
                 return True
+                
             cycle.add(node)
+
             for child in adj[node]:
                 if not dfs(child):
                     return False
+
             cycle.remove(node)
             visit.add(node)
             return True
