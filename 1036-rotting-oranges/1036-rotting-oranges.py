@@ -8,14 +8,7 @@ class Solution(object):
         directions=[[1,0],[0,1],[-1,0],[0,-1]]
         rotten=collections.deque()
         visit=set()
-        minutes=-1
-        if ROWS==1 and COLS==1:
-            if grid[0][0]==1:
-                return -1
-            else:
-                return 0
-        if grid==[[0,0,0,0]]:
-            return 0       
+        minutes=0     
 
         for i in range(ROWS):
             for j in range(COLS):
@@ -40,6 +33,6 @@ class Solution(object):
             for j in range(COLS):
                 if grid[i][j]==1:
                     return -1
-        return minutes
+        return minutes-1 if minutes!=0 else 0
 
 
