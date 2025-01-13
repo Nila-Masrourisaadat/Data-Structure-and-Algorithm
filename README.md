@@ -43,6 +43,7 @@
 | [0907-koko-eating-bananas](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1019-squares-of-a-sorted-array) |
+| [1036-rotting-oranges](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1325-path-with-maximum-probability) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -143,6 +144,7 @@
 | [0207-course-schedule](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0210-course-schedule-ii) |
 | [0695-max-area-of-island](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Matrix
 |  |
@@ -154,6 +156,7 @@
 | [0130-surrounded-regions](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1036-rotting-oranges) |
 ## String
 |  |
 | ------- |
