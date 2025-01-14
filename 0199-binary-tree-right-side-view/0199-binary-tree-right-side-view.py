@@ -11,24 +11,43 @@ class Solution(object):
         :rtype: List[int]
         """
         #bfs
-        # q = deque()
-        # res=[]
-        # q.append(root)
-        # if not root:
-        #     return []
-        # while q:
-        #     size=len(q)
-        #     for i in range(size):
-        #         node=q.popleft()
-        #         if i==size-1:
-        #             res.append(node.val)
-        #         if node.left:
-        #             q.append(node.left)
-        #         if node.right:
-        #             q.append(node.right)
+        #level order traversal
+        if not root:
+            return []
+        q=collections.deque([root])
+        res=[]
+        while q:
+            rightside=None
+            for i in range(len(q)):# because we want to finish a level before moving to next
+                node=q.popleft()
+                if node:
+                    rightside=node #this eventually once each level ends, will have the right most node
+                    q.append(node.left)#we append left node first so when we popleft the first one would be the left
+                    q.append(node.right)
+            if rightside:
+                res.append(rightside.val) 
+           
+        return res
+        
+        #another bfs
+        q = deque()
+        res=[]
+        q.append(root)
+        if not root:
+            return []
+        while q:
+            size=len(q)
+            for i in range(size):
+                node=q.popleft()
+                if i==size-1:
+                    res.append(node.val)
+                if node.left:
+                    q.append(node.left)
+                if node.right:
+                    q.append(node.right)
                 
-        # return res
-            
+        return res
+
         #dfs
         
         result = []
@@ -48,4 +67,3 @@ class Solution(object):
 
         dfs(root, 0)
         return result
-
