@@ -164,6 +164,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0072-edit-distance) |
@@ -189,6 +190,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0155-min-stack) |
