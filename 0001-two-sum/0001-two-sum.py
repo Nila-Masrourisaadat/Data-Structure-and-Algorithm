@@ -7,9 +7,9 @@ class Solution(object):
         """
 
         dic={}
-        for i, n in enumerate(nums):
-            rem=target-n
-            if rem in dic:
-                return[i,dic[rem]]
-            dic[n]=i
-        return []
+        for i,num in enumerate(nums):
+            dic[num]=i
+        for i,num in enumerate(nums):
+            if target - num in dic and i!=dic[target-num]:
+                return [i,dic[target-num]] 
+    
