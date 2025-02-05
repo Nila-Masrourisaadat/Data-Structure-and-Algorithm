@@ -39,6 +39,7 @@
 | [0695-max-area-of-island](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0747-min-cost-climbing-stairs) |
+| [0753-open-the-lock](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0753-open-the-lock) |
 | [0876-hand-of-straights](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1014-k-closest-points-to-origin) |
@@ -65,6 +66,7 @@
 | [0496-next-greater-element-i](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0621-task-scheduler) |
+| [0753-open-the-lock](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0876-hand-of-straights) |
 | [1023-time-based-key-value-store](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1023-time-based-key-value-store) |
@@ -146,6 +148,7 @@
 | [0207-course-schedule](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0210-course-schedule-ii) |
 | [0695-max-area-of-island](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0695-max-area-of-island) |
+| [0753-open-the-lock](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0753-open-the-lock) |
 | [1036-rotting-oranges](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Matrix
@@ -177,6 +180,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0678-valid-parenthesis-string) |
+| [0753-open-the-lock](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0768-partition-labels) |
 | [1023-time-based-key-value-store](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1250-longest-common-subsequence) |
