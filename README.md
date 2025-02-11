@@ -48,6 +48,7 @@
 | [1127-last-stone-weight](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1325-path-with-maximum-probability) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/2048-build-array-from-permutation) |
 | [2139-detect-squares](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/2139-detect-squares) |
 ## Hash Table
@@ -155,6 +156,7 @@
 | [0753-open-the-lock](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0753-open-the-lock) |
 | [1036-rotting-oranges](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Matrix
 |  |
 | ------- |
@@ -166,6 +168,7 @@
 | [0200-number-of-islands](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1036-rotting-oranges) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## String
 |  |
 | ------- |
