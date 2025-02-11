@@ -27,8 +27,8 @@ class Solution(object):
                         q.append((r,c))
                         visit.add((r,c))
 
-        if ((row==0 or row==ROWS-1) and row!=entrance[0]) or ((col==0 or col==COLS-1) and col!=entrance[1]):
+        # if ((row==0 or row==ROWS-1) and row!=entrance[0]) or ((col==0 or col==COLS-1) and col!=entrance[1]):
             
-            return steps
+        #     return steps
         
         return -1
