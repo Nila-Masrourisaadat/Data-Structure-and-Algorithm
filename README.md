@@ -45,6 +45,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1325-path-with-maximum-probability) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -80,6 +81,7 @@
 | [0200-number-of-islands](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0695-max-area-of-island) |
+| [1073-number-of-enclaves](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1073-number-of-enclaves) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0547-number-of-provinces](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0695-max-area-of-island) |
+| [1073-number-of-enclaves](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1073-number-of-enclaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -155,6 +158,7 @@
 | [0695-max-area-of-island](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0695-max-area-of-island) |
 | [0753-open-the-lock](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0753-open-the-lock) |
 | [1036-rotting-oranges](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1073-number-of-enclaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Matrix
@@ -168,6 +172,7 @@
 | [0200-number-of-islands](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1073-number-of-enclaves) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## String
 |  |
