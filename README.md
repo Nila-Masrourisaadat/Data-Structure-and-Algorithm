@@ -45,6 +45,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1036-rotting-oranges) |
+| [1039-find-the-town-judge](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1039-find-the-town-judge) |
 | [1073-number-of-enclaves](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1325-path-with-maximum-probability) |
@@ -72,6 +73,7 @@
 | [0768-partition-labels](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0876-hand-of-straights) |
 | [1023-time-based-key-value-store](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1023-time-based-key-value-store) |
+| [1039-find-the-town-judge](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1039-find-the-town-judge) |
 | [2139-detect-squares](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/2139-detect-squares) |
 ## Union Find
 |  |
@@ -114,6 +116,7 @@
 | [0207-course-schedule](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0547-number-of-provinces) |
+| [1039-find-the-town-judge](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1039-find-the-town-judge) |
 | [1325-path-with-maximum-probability](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1325-path-with-maximum-probability) |
 ## Heap (Priority Queue)
 |  |
