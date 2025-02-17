@@ -1,5 +1,3 @@
-import collections
-
 class Solution(object):
     def checkIfPrerequisite(self, numCourses, prerequisites, queries):
         """
@@ -8,27 +6,27 @@ class Solution(object):
         :type queries: List[List[int]]
         :rtype: List[bool]
         """
-        # Build adjacency list
-        Adj = collections.defaultdict(list)
-        for u, v in prerequisites:
+        #dfs
+        #recursion
+        #Adj list
+        answer=[]
+        Adj=collections.defaultdict(list)
+        for u,v in prerequisites:
             Adj[u].append(v)
-
-        # Memoization dictionary (shared across all queries)
-        dp = {}
-
-        def dfs(u, v):
-            if v in Adj[u]:  # Direct prerequisite
-                return True
-            if (u, v) in dp:  # Memoization check
-                return dp[(u, v)]
-
-            for child in Adj[u]:  # Explore all children
-                if dfs(child, v):
-                    dp[(u, v)] = True  # ✅ Store result
+        def dfs(u,v,dp):
+            if (u,v) in dp:
+                return dp[(u,v)]
+            if v in Adj[u]:
+                return True 
+            for child in Adj[u]:
+                if dfs(child, v,dp):
+                    dp[(u,v)]=True
                     return True
-
-            dp[(u, v)] = False  # ✅ Store negative result to avoid recomputation
+            dp[(u,v)]=False
             return False
 
-        # Answer queries using memoized DFS
-        return [dfs(u, v) for u, v in queries]
+        dp={}
+        for u,v in queries:
+            answer.append(dfs(u,v,dp))
+        
+        return answer
