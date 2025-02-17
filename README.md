@@ -118,6 +118,7 @@
 | [0547-number-of-provinces](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0547-number-of-provinces) |
 | [1039-find-the-town-judge](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1039-find-the-town-judge) |
 | [1325-path-with-maximum-probability](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1325-path-with-maximum-probability) |
+| [1558-course-schedule-iv](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1558-course-schedule-iv) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 | [0695-max-area-of-island](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0695-max-area-of-island) |
 | [1073-number-of-enclaves](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1073-number-of-enclaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1558-course-schedule-iv](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1558-course-schedule-iv) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -163,6 +165,7 @@
 | [1036-rotting-oranges](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1073-number-of-enclaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1558-course-schedule-iv](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1558-course-schedule-iv) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Matrix
 |  |
@@ -246,6 +249,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0210-course-schedule-ii) |
+| [1558-course-schedule-iv](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1558-course-schedule-iv) |
 ## Dynamic Programming
 |  |
 | ------- |
