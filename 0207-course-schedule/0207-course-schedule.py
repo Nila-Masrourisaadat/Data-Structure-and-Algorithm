@@ -5,27 +5,26 @@ class Solution(object):
         :type prerequisites: List[List[int]]
         :rtype: bool
         """
-        adj=collections.defaultdict(list)
-        visit, cycle=set(),set()
-        for ai,bi in prerequisites:
-            adj[bi].append(ai)
-        
-        def dfs(node):
-            if node in cycle:
+        Adj=collections.defaultdict(list)
+        for a,b in prerequisites:
+            Adj[b].append(a)
+
+        loop=set()
+        visit=set()
+        def dfs(n):
+            if n in loop:# if we see the same node in a path then its a loop/cycle
                 return False
-            if node in visit:
+            if n in visit:
                 return True
-                
-            cycle.add(node)
-
-            for child in adj[node]:
-                if not dfs(child):
+            loop.add(n) # keeping track of the nodes in each path
+            
+            for pre in Adj[n]:
+                if not dfs(pre):
                     return False
-
-            cycle.remove(node)
-            visit.add(node)
+            loop.remove(n)
+            visit.add(n)
             return True
-        
+
         for n in range(numCourses):
             if not dfs(n):
                 return False
