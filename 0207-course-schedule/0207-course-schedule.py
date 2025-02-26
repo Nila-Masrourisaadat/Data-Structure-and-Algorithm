@@ -5,6 +5,7 @@ class Solution(object):
         :type prerequisites: List[List[int]]
         :rtype: bool
         """
+        #cycle detection for directed graph
         Adj=collections.defaultdict(list)
         for a,b in prerequisites:
             Adj[b].append(a)
