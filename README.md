@@ -37,6 +37,7 @@
 | [0621-task-scheduler](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Nila-Masrourisaadat/Data-Structure-and-Algorithm/tree/master/0721-accounts-merge) |
 | [0739-daily-temperatures](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0747-min-cost-climbing-stairs) |
 | [0753-open-the-lock](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0753-open-the-lock) |
@@ -69,6 +70,7 @@
 | [0496-next-greater-element-i](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/Nila-Masrourisaadat/Data-Structure-and-Algorithm/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0876-hand-of-straights) |
@@ -84,6 +86,7 @@
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Nila-Masrourisaadat/Data-Structure-and-Algorithm/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Nila-Masrourisaadat/Data-Structure-and-Algorithm/tree/master/0721-accounts-merge) |
 | [1073-number-of-enclaves](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1073-number-of-enclaves) |
 ## Two Pointers
 |  |
@@ -149,6 +152,7 @@
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Nila-Masrourisaadat/Data-Structure-and-Algorithm/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Nila-Masrourisaadat/Data-Structure-and-Algorithm/tree/master/0721-accounts-merge) |
 | [0820-find-eventual-safe-states](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1073-number-of-enclaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -167,6 +171,7 @@
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Nila-Masrourisaadat/Data-Structure-and-Algorithm/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/Nila-Masrourisaadat/Data-Structure-and-Algorithm/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0753-open-the-lock) |
 | [0820-find-eventual-safe-states](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1036-rotting-oranges) |
@@ -205,6 +210,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0678-valid-parenthesis-string) |
+| [0721-accounts-merge](https://github.com/Nila-Masrourisaadat/Data-Structure-and-Algorithm/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0753-open-the-lock) |
 | [0768-partition-labels](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0768-partition-labels) |
 | [1023-time-based-key-value-store](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1023-time-based-key-value-store) |
@@ -305,6 +311,7 @@
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/Nila-Masrourisaadat/Data-Structure-and-Algorithm/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0876-hand-of-straights) |
 | [1014-k-closest-points-to-origin](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1019-squares-of-a-sorted-array) |
