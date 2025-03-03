@@ -4,15 +4,17 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
+        
+        l=0
+        current_set=set()
         max_len=0
-        l,r=0,0
-        chars=set()
-        while r<len(s):
-            if s[r] not in chars:#not repeated character
-                chars.add(s[r])
-                max_len=max(max_len, r-l+1)
-                r+=1
-            else:#if repeated keep shrinking
-                chars.remove(s[l])
+        for r in range(len(s)):
+            #first remove the duplicates abcb
+            while s[r] in current_set:
+                current_set.remove(s[l])
                 l+=1
+            #now that we dont have duplicates we add the new char
+            current_set.add(s[r])
+            #now that we have a new substring we form the new substring and save the length
+            max_len=max(max_len,len(current_set))  
         return max_len
