@@ -11,6 +11,7 @@
 | [0040-combination-sum-ii](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/Nila-Masrourisaadat/Data-Structure-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0066-plus-one) |
@@ -60,6 +61,7 @@
 | [0001-two-sum](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Nila-Masrourisaadat/Data-Structure-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0133-clone-graph) |
@@ -202,6 +204,7 @@
 | [0020-valid-parentheses](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Nila-Masrourisaadat/Data-Structure-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0091-decode-ways) |
@@ -312,6 +315,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Nila-Masrourisaadat/Data-Structure-and-Algorithm/tree/master/0049-group-anagrams) |
 | [0435-non-overlapping-intervals](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Nila-Masrourisaadat/Data-Structure-and-Algorithm/tree/master/0721-accounts-merge) |
