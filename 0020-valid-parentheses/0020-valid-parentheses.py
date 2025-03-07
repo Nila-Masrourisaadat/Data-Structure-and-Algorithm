@@ -4,15 +4,15 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        if len(s)%2!=0:
-            return False
+        close_to_open={")":"(","]":"[","}":"{"}
         stack=[]
-        close_to_open={")":"(","}":"{","]":"["}
-        for bracket in s:
-            if bracket in close_to_open and stack:
-                open_bracket=stack.pop()
-                if open_bracket != close_to_open[bracket]:
+        for char in s:
+            if char in close_to_open:
+                if stack and stack[-1]==close_to_open[char]:
+                    stack.pop()
+                else:
                     return False
             else:
-                stack.append(bracket)
+                stack.append(char)
+
         return True if not stack else False
