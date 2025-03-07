@@ -27,6 +27,7 @@
 | [0130-surrounded-regions](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Nila-Masrourisaadat/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -69,6 +70,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Nila-Masrourisaadat/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
@@ -215,6 +217,7 @@
 | [0091-decode-ways](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Nila-Masrourisaadat/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0344-reverse-string](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
@@ -290,6 +293,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nila-Masrourisaadat/Data-Structure-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nila-Masrourisaadat/Data-Structure-and-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Nila-Masrourisaadat/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0416-partition-equal-subset-sum) |
@@ -376,6 +380,7 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Nila-Masrourisaadat/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Greedy
 |  |
@@ -401,6 +406,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Nila-Masrourisaadat/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 ## Tree
 |  |
 | ------- |
