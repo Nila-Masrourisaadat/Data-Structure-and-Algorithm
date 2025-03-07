@@ -96,6 +96,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nila-Masrourisaadat/Data-Structure-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -202,6 +203,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Nila-Masrourisaadat/Data-Structure-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0022-generate-parentheses) |
@@ -275,6 +277,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Nila-Masrourisaadat/Data-Structure-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0055-jump-game) |
