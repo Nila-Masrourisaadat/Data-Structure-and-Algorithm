@@ -5,12 +5,11 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-
-        dic={}
-            
-        for i,num in enumerate(nums):
-            if target - num in dic and i!=dic[target-num]:
-                return [i,dic[target-num]] 
-            dic[num]=i
-            
-    
+        prevmap={}
+        res=[]
+        for i, num in enumerate(nums):
+            diff=target-num
+            if diff in prevmap:
+                res=[i,prevmap[diff]]
+            prevmap[num]=i
+        return res
