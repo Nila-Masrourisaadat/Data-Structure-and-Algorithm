@@ -12,6 +12,7 @@
 | [0045-jump-game-ii](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Nila-Masrourisaadat/Data-Structure-and-Algorithm/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Nila-Masrourisaadat/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0066-plus-one) |
@@ -280,6 +281,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Nila-Masrourisaadat/Data-Structure-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Nila-Masrourisaadat/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/0072-edit-distance) |
@@ -354,6 +356,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Nila-Masrourisaadat/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/nila-masroori/Data-Structure-and-Algorithm/tree/master/1014-k-closest-points-to-origin) |
 ## Geometry
 |  |
