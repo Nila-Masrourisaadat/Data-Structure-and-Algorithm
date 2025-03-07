@@ -9,7 +9,6 @@ class Solution(object):
         for r,price in enumerate(prices):
             if price< prices[l]:
                 l=r
-            else:
-                max_profit=max(max_profit,price-prices[l])
+            max_profit=max(max_profit,price-prices[l])
 
         return max_profit
